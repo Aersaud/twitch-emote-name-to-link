@@ -1,0 +1,23 @@
+{
+  "name": "upload2git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getEmotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeBuilds/twitch-emote-name-to-link.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CreativeBuilds/twitch-emote-name-to-link/issues"
+  },
+  "homepage": "https://github.com/CreativeBuilds/twitch-emote-name-to-link#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "superagent": "^4.0.0-beta.5"
+  }
+}
